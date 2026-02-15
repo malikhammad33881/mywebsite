@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+
+body {
+  background-color: lightgray;
+  text-align: center;
+}
+
+h1 {
+  color: blue;
+  margin-top: 50px;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: green;
+  color: white;
+  border: none;
+  transition: 0.3s;
+}
+
+button:hover {
+  background-color: black;
+}
+
+</style>
+</head>
+<body>
+
+<h1>My Styled Website</h1>
+<button>Click Me</button>
+
+</body>
+</html>
